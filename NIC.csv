@@ -1,81 +1,81 @@
-Date,Year,Type,Value,,,,,,
-October,2022,Appliances,41868939.5,,,,,,
-November,2022,Appliances,42850418.67,,,,,,
-December,2022,Appliances,41271670.78,,,,,,
-January,2023,Appliances,42479515.72,,,,,,
-February,2023,Appliances,39025944.69,,,,,,
-March,2023,Appliances,44070945.55,,,,,,
-April,2023,Appliances,38466721.85,,,,,,
-May,2023,Appliances,41707370.83,,,,,,
-June,2023,Appliances,43577459.76,,,,,,
-July,2023,Appliances,42127865.47,,,,,,
-August,2023,Appliances,41913598.44,,,,,,
-September,2023,Appliances,41555294.53,,,,,,
-October,2023,Appliances,42109347.56,,,,,,
-November,2023,Appliances,42666866.91,,,,,,
-December,2023,Appliances,40723953.72,,,,,,
-January,2024,Appliances,42612744.78,,,,,,
-October,2022,Brands,296006343,,,,,,
-November,2022,Brands,304742739.1,,,,,,
-December,2022,Brands,306335515.2,,,,,,
-January,2023,Brands,307606084.3,,,,,,
-February,2023,Brands,283865105,,,,,,
-March,2023,Brands,324763442.1,,,,,,
-April,2023,Brands,289121634.1,,,,,,
-May,2023,Brands,312286237.2,,,,,,
-June,2023,Brands,320808773,,,,,,
-July,2023,Brands,274546276.6,,,,,,
-August,2023,Brands,278742733.8,,,,,,
-September,2023,Brands,276340341.1,,,,,,
-October,2023,Brands,281758725.3,,,,,,
-November,2023,Brands,286104288.2,,,,,,
-December,2023,Brands,281782972,,,,,,
-January,2024,Brands,291680468,,,,,,
-October,2022,Generics,122971837.6,,,,,,
-November,2022,Generics,121800407.3,,,,,,
-December,2022,Generics,121996864.6,,,,,,
-January,2023,Generics,132896888.1,,,,,,
-February,2023,Generics,122286537.1,,,,,,
-March,2023,Generics,138544681.5,,,,,,
-April,2023,Generics,132421392.5,,,,,,
-May,2023,Generics,140122627.8,,,,,,
-June,2023,Generics,147893170.9,,,,,,
-July,2023,Generics,179567498.4,,,,,,
-August,2023,Generics,182961052.4,,,,,,
-September,2023,Generics,180124036.2,,,,,,
-October,2023,Generics,152537632.8,,,,,,
-November,2023,Generics,151953353.1,,,,,,
-December,2023,Generics,152851374.7,,,,,,
-January,2024,Generics,141857440,,,,,,
-October,2022,Concessions,48405388.37,,,,,,
-November,2022,Concessions,60731229.07,,,,,,
-December,2022,Concessions,83028289.21,,,,,,
-January,2023,Concessions,62912769.21,,,,,,
-February,2023,Concessions,56213225.1,,,,,,
-March,2023,Concessions,62524473.92,,,,,,
-April,2023,Concessions,0,,,,,,
-May,2023,Concessions,0,,,,,,
-June,2023,Concessions,0,,,,,,
-July,2023,Concessions,0,,,,,,
-August,2023,Concessions,0,,,,,,
-September,2023,Concessions,0,,,,,,
-October,2023,Concessions,0,,,,,,
-November,2023,Concessions,0,,,,,,
-December,2023,Concessions,0,,,,,,
-January,2024,Concessions,0,,,,,,
-October,2022,Totals,509252508.5,,,,,,
-November,2022,Totals,530124794.2,,,,,,
-December,2022,Totals,552632339.7,,,,,,
-January,2023,Totals,545895257.3,,,,,,
-February,2023,Totals,501390811.9,,,,,,
-March,2023,Totals,569903543.1,,,,,,
-April,2023,Totals,460009748.4,,,,,,
-May,2023,Totals,494116235.9,,,,,,
-June,2023,Totals,512279403.6,,,,,,
-July,2023,Totals,496241640.5,,,,,,
-August,2023,Totals,503617384.7,,,,,,
-September,2023,Totals,498019671.8,,,,,,
-October,2023,Totals,476405705.7,,,,,,
-November,2023,Totals,480724508.2,,,,,,
-December,2023,Totals,475358300.4,,,,,,
-January,2024,Totals,476150652.8,,,,,,
+Date,Type,Value
+1st October 2022,Appliances,41868939.5
+1st November 2022,Appliances,42850418.67
+1st December 2022,Appliances,41271670.78
+1st January 2023,Appliances,42479515.72
+1st February 2023,Appliances,39025944.69
+1st March 2023,Appliances,44070945.55
+1st April 2023,Appliances,38466721.85
+1st May 2023,Appliances,41707370.83
+1st June 2023,Appliances,43577459.76
+1st July 2023,Appliances,42127865.47
+1st August 2023,Appliances,41913598.44
+1st September 2023,Appliances,41555294.53
+1st October 2023,Appliances,42109347.56
+1st November 2023,Appliances,42666866.91
+1st December 2023,Appliances,40723953.72
+1st January 2024,Appliances,42612744.78
+1st October 2022,Brands,296006343
+1st November 2022,Brands,304742739.1
+1st December 2022,Brands,306335515.2
+1st January 2023,Brands,307606084.3
+1st February 2023,Brands,283865105
+1st March 2023,Brands,324763442.1
+1st April 2023,Brands,289121634.1
+1st May 2023,Brands,312286237.2
+1st June 2023,Brands,320808773
+1st July 2023,Brands,274546276.6
+1st August 2023,Brands,278742733.8
+1st September 2023,Brands,276340341.1
+1st October 2023,Brands,281758725.3
+1st November 2023,Brands,286104288.2
+1st December 2023,Brands,281782972
+1st January 2024,Brands,291680468
+1st October 2022,Generics,122971837.6
+1st November 2022,Generics,121800407.3
+1st December 2022,Generics,121996864.6
+1st January 2023,Generics,132896888.1
+1st February 2023,Generics,122286537.1
+1st March 2023,Generics,138544681.5
+1st April 2023,Generics,132421392.5
+1st May 2023,Generics,140122627.8
+1st June 2023,Generics,147893170.9
+1st July 2023,Generics,179567498.4
+1st August 2023,Generics,182961052.4
+1st September 2023,Generics,180124036.2
+1st October 2023,Generics,152537632.8
+1st November 2023,Generics,151953353.1
+1st December 2023,Generics,152851374.7
+1st January 2024,Generics,141857440
+1st October 2022,Concessions,48405388.37
+1st November 2022,Concessions,60731229.07
+1st December 2022,Concessions,83028289.21
+1st January 2023,Concessions,62912769.21
+1st February 2023,Concessions,56213225.1
+1st March 2023,Concessions,62524473.92
+1st April 2023,Concessions,0
+1st May 2023,Concessions,0
+1st June 2023,Concessions,0
+1st July 2023,Concessions,0
+1st August 2023,Concessions,0
+1st September 2023,Concessions,0
+1st October 2023,Concessions,0
+1st November 2023,Concessions,0
+1st December 2023,Concessions,0
+1st January 2024,Concessions,0
+1st October 2022,Totals,509252508.5
+1st November 2022,Totals,530124794.2
+1st December 2022,Totals,552632339.7
+1st January 2023,Totals,545895257.3
+1st February 2023,Totals,501390811.9
+1st March 2023,Totals,569903543.1
+1st April 2023,Totals,460009748.4
+1st May 2023,Totals,494116235.9
+1st June 2023,Totals,512279403.6
+1st July 2023,Totals,496241640.5
+1st August 2023,Totals,503617384.7
+1st September 2023,Totals,498019671.8
+1st October 2023,Totals,476405705.7
+1st November 2023,Totals,480724508.2
+1st December 2023,Totals,475358300.4
+1st January 2024,Totals,476150652.8
