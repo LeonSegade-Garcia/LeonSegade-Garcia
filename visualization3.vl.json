@@ -4,8 +4,8 @@
     "text": "British GDP Growth",
     "subtitle": ["QoQ4 % Growth", "Source: ONS via ECO-API"]
   },
-  "width": 400,
-  "height": 300,
+  "width": 600,
+  "height": 500,
   "data": {"url": "https://api.economicsobservatory.com/gbr/grow?vega"},
   "mark": "line",
   "encoding": {
